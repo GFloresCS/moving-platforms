@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/43160933/172479975-f0b65f8b-b71e-4fe9-8b70-71be1447e391.png)
 
 A software system that simulates Kinetic Art.
-An MxN dimensional matrix where the system is responsible for the control of each node in the matrix for the following properties: Status, Speed, Position in Space, Speed, Color, Time and Iteration at any given time throughout the simulation.
+An MxN dimensional matrix where the system is responsible for the control of each node in the matrix for the following properties: Status, Speed, Position in Space, Color, Time and Iteration at any given time throughout the simulation.
 When the user has finished programming the platform, they will have the ability to save their platform program into a file.
 Once the platform has been programming and the data has been saved, the user has the ability to load the data from the disk and run the simulation based on the configuration.
 
